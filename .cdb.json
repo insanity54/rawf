@@ -1,0 +1,13 @@
+{
+    "title": "rawf",
+    "tags": ["tools"],
+    "license": "MIT",
+    "media_license": null,
+    "website": null,
+    "long_description": "A ranged weapon framework for Minetest. A fork of LoneWolfHT's unreleased mod of the same name",
+    "name": "rawf",
+    "dev_state": "WIP",
+    "repo": "https://github.com/insanity54/rawf",
+    "issue_tracker": "https://github.com/insanity54/rawf/issues",
+    "forums": null
+}
